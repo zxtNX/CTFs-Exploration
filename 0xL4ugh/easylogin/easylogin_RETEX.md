@@ -1,4 +1,11 @@
-
+---
+title: "L4ugh CTF 2024 : easylogin"
+tags:
+  - CTF
+  - L4UGH
+  - RETEX
+  - REVERSE-ENGINEERING
+---
 # Description du challenge
 
 Dans ce challenge, on nous donne deux fichiers soit "easylogin" et "token_validation". A première vue, au nom de ces fichiers, on peut penser que easylogin serait le fichier où se trouverait notre mot de passe car ça serait le fichier gérant le "login" et token_validation serait le fichier permettant de valider un token.
